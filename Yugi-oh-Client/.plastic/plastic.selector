@@ -1,0 +1,4 @@
+repository "Yugi-oh-Client 2025-02-21_15-55-36/Yugi-oh-Client@18968247922803@cloud"
+  path "/"
+    br "/main"
+    co "/main"

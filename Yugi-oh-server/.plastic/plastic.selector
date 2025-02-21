@@ -1,0 +1,4 @@
+repository "Yugi-oh-server/Yugi-oh-server@18968247922803@cloud"
+  path "/"
+    br "/main"
+    co "/main"
